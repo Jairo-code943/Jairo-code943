@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Jairo-code943
+- 👀 I like video games, karate. My genres are RPG, fighters and open world adventure.
+- 🌱 I am currently learning full stack developer
+- 💞️ Looking to collaborate on backend and frontend projects
+- 📫 How to reach me jairo.clayton@hotmail.com... 
